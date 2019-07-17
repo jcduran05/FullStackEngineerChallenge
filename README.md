@@ -1,7 +1,9 @@
 # Full Stack Developer Challenge
 
-npm install
-npm run seed
+The build app with data can be accessed at https://ancient-refuge-55416.herokuapp.com/home
+
+npm install  
+npm run seed  
 npm run start-dev
 
 Making use of postgres and the database be called paypay-fschallenge
